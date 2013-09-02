@@ -1,0 +1,12 @@
+{
+  "name": "imp-client",
+  "version": "0.0.0",
+  "description": "IMP client",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
+  "license": "MIT"
+}
