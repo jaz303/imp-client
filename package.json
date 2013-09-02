@@ -6,7 +6,23 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": "",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:jaz303/imp-client.git"
+  },
   "author": "Jason Frame <jason@onehackoranother.com> (http://jasonframe.co.uk)",
-  "license": "MIT"
+  "license": "MIT",
+  "readmeFilename": "README.md",
+  "gitHead": "d4c3404e736a7a0dc233d7cebd31dd77aeafaeb3",
+  "dependencies": {
+    "serialport": "~1.1.3"
+  },
+  "devDependencies": {},
+  "keywords": [
+    "protocol",
+    "arduino",
+    "microcontroller",
+    "remote",
+    "control"
+  ]
 }
