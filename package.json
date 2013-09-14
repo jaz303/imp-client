@@ -1,6 +1,6 @@
 {
   "name": "imp-client",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "IMP client",
   "main": "index.js",
   "scripts": {
